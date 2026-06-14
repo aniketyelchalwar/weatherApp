@@ -1,0 +1,1 @@
+Designed and developed a responsive Weather App that fetches real-time weather data using the OpenWeatherMap API. The app allows users to search for any city and displays key weather metrics like temperature, humidity, and weather conditions in a clean and user-friendly interface.
